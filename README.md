@@ -1,2 +1,2 @@
-# Group project for Upenn CIS545 fall 2023
+# COVID19 Google Data Analysis- Upenn CIS545 team project Fall 2023
 
